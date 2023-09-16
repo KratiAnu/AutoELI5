@@ -1,6 +1,4 @@
 # AutoELI5
-Explain it Like I am 5
-
 Explain Like I am 5
 
 The hacks aims at introducing Knowledge Presentation Assistant, a user-friendly tool designed to make complex topics understandable to anyone. With labeled images and simplified text, this tool breaks down intricate concepts into digestible information. It empowers users to effortlessly create concise PowerPoint presentations, ensuring optimal comprehension.
